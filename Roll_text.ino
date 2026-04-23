@@ -40,7 +40,7 @@ void setup() {
 void loop() {
     // scroll 13 positions (string length) to the left
     // to move it offscreen left:
-    for (int positionCounter = 0; positionCounter < 200; positionCounter++) {
+    for (int positionCounter = 0; positionCounter < 31; positionCounter++) {
         /**
          *  @brief scroll left to display
          */
